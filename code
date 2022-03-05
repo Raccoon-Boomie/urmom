@@ -1,0 +1,7 @@
+name = input ("Tell me your name: ")
+print("Haha", name, "I am doing your mother >:)")
+print("But you wanna know who else I'm doing?")
+print("Come on guess.")
+rn = input("Right now: ")
+
+print("That's right! I'm doing your", rn, "!") 
